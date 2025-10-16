@@ -1,4 +1,4 @@
-package HospitalManagement;
+package ClinicManagement;
 
 public class Patient {// Clase para pacientes
     private String patientId;
@@ -41,3 +41,4 @@ public class Patient {// Clase para pacientes
             " | " + (transferable ? " Transferible" : " No transferible");
     }
 }
+
