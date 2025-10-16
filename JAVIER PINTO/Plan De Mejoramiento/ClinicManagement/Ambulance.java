@@ -1,4 +1,4 @@
-package HospitalManagement;
+package ClinicManagement;
 
 public class Ambulance {// Clase para ambulancias
     private String ambulanceId;
@@ -65,3 +65,4 @@ public class Ambulance {// Clase para ambulancias
     public double getTotalDistance() { return totalDistance; }
     public boolean isAvailable() { return available; }
 }
+
