@@ -1,0 +1,16 @@
+GESTIÓN DE CLÍNICAS.
+
+Requerimientos funcionales:
+
+RF1. El sistema debe tener mínimo 3 clínicas.
+RF2. Las clínicas deben poder solicitar las ambulancias.
+RF3. Los conductores no pueden hacer más de 8 recorridos.
+RF4. La distancia recorrida en Km no puede ser mayor a 400km.
+RF5. El sistema me debe decir que pacientes no puedo trasladar porque excede los Km recorridos.
+RF6. El sistema me debe decir el recorrido de cada ambulancia y cuantos recorridos hizo.
+
+Requerimientos no funcionales:
+
+RFN1. Se deben utilizar variables globales.
+RFN2. Debe haber una separación por clases.
+RFN3. Las variables deben ser descriptivas.
