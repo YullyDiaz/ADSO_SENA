@@ -1,0 +1,24 @@
+GESTIÓN DE AMBULANCIAS.
+
+Requerimientos funcionales:
+
+RF1. El sistema debe permitir asignar un conductor a cada carro.
+RF2. El conductor debe recoger a cada persona.
+RF3. El sistema debe asignar un conductor a la carroza fúnebre.
+RF4. El sistema debe permitir sacar un reporte acerca de los conductores y los carros a los que están asignados, los pacientes que hay y los fallecidos.
+RF5. El sistema debe solicitar el nombre, apellido y teléfono del conductor.
+
+Requerimientos no funcionales:
+
+RFN1. Se deben utilizar variables globales.
+RFN2. Debe haber una separación por clases.
+RFN3. Las variables deben ser descriptivas.
+
+Datos:
+
+10 ambulancias
+100 pacientes
+15 muertos
+1 carroza
+10 conductores
+
