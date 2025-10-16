@@ -1,4 +1,4 @@
-package HospitalManagement;
+package ClinicManagement;
 
 import java.util.Scanner;
 import java.util.Random;
@@ -174,3 +174,4 @@ public class ClinicSystem {// Clase principal del sistema
         }
     }
 }
+
