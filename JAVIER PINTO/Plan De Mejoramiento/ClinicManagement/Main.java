@@ -1,4 +1,4 @@
-package HospitalManagement;
+package ClinicManagement;
 
 import java.util.Scanner;
 
@@ -43,3 +43,4 @@ public class Main {// Clase principal para ejecutar el sistema
         scanner.close();
     }
 }
+
