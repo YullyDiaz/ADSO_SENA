@@ -1,4 +1,4 @@
-package HospitalManagement;
+package ClinicManagement;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -13,3 +13,4 @@ public class GlobalData {// Clase para datos globales
     public static int totalTransfers = 0;
     public static double totalDistance = 0;
 }
+
