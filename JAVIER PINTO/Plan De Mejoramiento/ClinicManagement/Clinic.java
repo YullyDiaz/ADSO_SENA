@@ -1,4 +1,4 @@
-package HospitalManagement;
+package ClinicManagement;
 
 public class Clinic {// Clase para clínicas
     private String clinicId;
@@ -32,4 +32,5 @@ public class Clinic {// Clase para clínicas
     public String toString() {// Representación en cadena
         return "Nombre: " + name + ", Tel: " + phone + ",  Pacientes: " + patientCount;
     }
+
 }
