@@ -1,4 +1,4 @@
-package HospitalManagement;
+package ClinicManagement;
 
 public class Driver {// Clase para conductores
     private String driverId;
@@ -24,3 +24,4 @@ public class Driver {// Clase para conductores
         return "Nombre: " + firstName + " " + lastName + ", Licencia: " + licenseNumber;
     }
 }
+
