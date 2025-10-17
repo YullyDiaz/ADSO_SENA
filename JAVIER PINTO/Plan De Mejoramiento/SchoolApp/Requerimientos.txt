@@ -1,0 +1,16 @@
+APLICACIÓN DE COLEGIO.
+
+Requerimientos funcionales:
+
+RF1. El sistema debe pedir l nombre de la institución.
+RF2. El sistema debe preguntar cuantos cursos va a crear o tiene la institución.
+RF3. El sistema debe preguntar el grado del curso.
+RF4. El sistema debe permitir matricular los alumnos (25 por curso).
+RF5. El sistema debe reportar cuantos grados tiene la institución.
+RF6. El sistema debe permitir listar los alumnos por curso o por grado.
+
+Requerimientos no funcionales:
+
+RFN1. Impresiones controladas.
+RFN2. Debe haber una separación por clases.
+RFN3. Las variables deben ser descriptivas.
