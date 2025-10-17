@@ -1,0 +1,24 @@
+GESTIÓN DE SUCURSALES DE BANCO.
+
+Requerimientos funcionales:
+
+RF1. El sistema debe permitir registrar la ciudad donde esta el banco.
+RF2. El sistema debe permitir registrar el nombre del banco, sus sucursales, los empleados de cada una.
+RF3. El sistema debe permitir listar los productos de cada sucursal:
+Cuenta corriente
+Cuenta de ahorros
+CDT
+Tarjeta de crédito 
+Préstamo:
+	Libranza
+	Hipotecario
+	Libre inversión 
+
+RF4. El sistema debe permitir crear una campaña.
+RF5. El sistema me debe listar la ciudad, las sucursales, los productos de cada una.
+RF6. Listar los productos que tiene el cliente y si tiene alguna campaña.
+
+Requerimientos no funcionales:
+
+RFN2. Debe haber una separación por clases.
+RFN3. Las variables deben ser descriptivas.
