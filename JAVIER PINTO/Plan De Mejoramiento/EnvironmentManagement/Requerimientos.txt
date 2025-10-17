@@ -1,0 +1,19 @@
+GESTIÓN DE AMBIENTES.
+
+Requerimientos funcionales:
+
+RF1. El sistema debe identificar la ciudad.
+RF2. El sistema debe identificar las sedes que hay en la ciudad.
+RF3. El sistema debe mostrar los ambientes que hay en las sedes y su tipo (normales, especializados).
+RF4. El sistema debe permitir ingresar la cantidad de instructores por sede.
+RF5. El sistema debe asignar un instructor al ambiente.
+RF6. El sistema debe asignar el horario del instructor ((6 - 12 am), (12 - 6 pm), (6 - 12 pm)).
+RF7. El sistema debe asignar un coordinador a la sede, un instructor a un ambiente en la sede.
+RF8. El sistema debe añadir por defecto una descripción (inventario) del ambiente.
+El sistema debe asignar al instructor a una sola línea.
+
+Requerimientos no funcionales:
+
+RFN1. Se debe validar el ingreso de un instructor por ambiente según el horario.
+RFN2. Se debe restringir las acciones del instructor en el ambiente según su horario.
+RFN3. Se debe restringir a una sola línea principal a la que puede pertenecer el instructor.
