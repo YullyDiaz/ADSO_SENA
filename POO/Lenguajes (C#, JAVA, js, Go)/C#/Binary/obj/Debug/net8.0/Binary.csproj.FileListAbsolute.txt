@@ -1,0 +1,14 @@
+d:\Documents\SENA\JHON CORREDOR\Ejercicio 4_11_2025\C#\Binary\bin\Debug\net8.0\Binary.exe
+d:\Documents\SENA\JHON CORREDOR\Ejercicio 4_11_2025\C#\Binary\bin\Debug\net8.0\Binary.deps.json
+d:\Documents\SENA\JHON CORREDOR\Ejercicio 4_11_2025\C#\Binary\bin\Debug\net8.0\Binary.runtimeconfig.json
+d:\Documents\SENA\JHON CORREDOR\Ejercicio 4_11_2025\C#\Binary\bin\Debug\net8.0\Binary.dll
+d:\Documents\SENA\JHON CORREDOR\Ejercicio 4_11_2025\C#\Binary\bin\Debug\net8.0\Binary.pdb
+d:\Documents\SENA\JHON CORREDOR\Ejercicio 4_11_2025\C#\Binary\obj\Debug\net8.0\Binary.GeneratedMSBuildEditorConfig.editorconfig
+d:\Documents\SENA\JHON CORREDOR\Ejercicio 4_11_2025\C#\Binary\obj\Debug\net8.0\Binary.AssemblyInfoInputs.cache
+d:\Documents\SENA\JHON CORREDOR\Ejercicio 4_11_2025\C#\Binary\obj\Debug\net8.0\Binary.AssemblyInfo.cs
+d:\Documents\SENA\JHON CORREDOR\Ejercicio 4_11_2025\C#\Binary\obj\Debug\net8.0\Binary.csproj.CoreCompileInputs.cache
+d:\Documents\SENA\JHON CORREDOR\Ejercicio 4_11_2025\C#\Binary\obj\Debug\net8.0\Binary.dll
+d:\Documents\SENA\JHON CORREDOR\Ejercicio 4_11_2025\C#\Binary\obj\Debug\net8.0\refint\Binary.dll
+d:\Documents\SENA\JHON CORREDOR\Ejercicio 4_11_2025\C#\Binary\obj\Debug\net8.0\Binary.pdb
+d:\Documents\SENA\JHON CORREDOR\Ejercicio 4_11_2025\C#\Binary\obj\Debug\net8.0\Binary.genruntimeconfig.cache
+d:\Documents\SENA\JHON CORREDOR\Ejercicio 4_11_2025\C#\Binary\obj\Debug\net8.0\ref\Binary.dll
